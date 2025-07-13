@@ -28,7 +28,7 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOP_FLOOR_DESCRIPTION</LocID>              <Text>Xây số tầng tối đa.</Text>  </GameDBLocalizedString>
           
             <!-- -->
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BUILDER</LocID>                            <Text>Builder</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BUILDER</LocID>                            <Text>Người xây dựng</Text>  </GameDBLocalizedString>
             <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_BUILDER_DESCRIPTION</LocID> <Text>Xây phòng đầu tiên của bạn với các thiết bị bắt buộc.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CRUSHER</LocID>                            <Text>Kẻ huỷ diệt</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CRUSHER_DESCRIPTION</LocID>                <Text>Xóa phòng đầu tiên của bạn.</Text>  </GameDBLocalizedString>
@@ -106,7 +106,7 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_POLYGOT_DESCRIPTION</LocID>                <Text>Thay đổi ngôn ngữ của trò chơi ít nhất 3 lần.</Text>  </GameDBLocalizedString> <!--after release-->
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TWINKLE</LocID>                            <Text>Ngôi sao nhỏ lấp lánh</Text>  </GameDBLocalizedString><!--after release-->
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TWINKLE_DESCRIPTION</LocID>                <Text>Chỉ có một ngôi sao uy tín.</Text>  </GameDBLocalizedString> <!--after release-->
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_EAGLE</LocID>                              <Text>ĐĐẠẠII BBÀÀNNGG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_EAGLE</LocID>                              <Text>Đại Bàng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_EAGLE_DESCRIPTION</LocID>                  <Text>Xoay một đối tượng 4 lần trước khi đặt nó.</Text>  </GameDBLocalizedString>
           
             <!--Campaign-->
